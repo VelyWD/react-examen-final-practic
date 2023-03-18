@@ -1,0 +1,15 @@
+.sidebar {
+    margin-right: 2vw;
+    flex-basis: 5;
+    min-width: 13vw;
+    padding: 1vw;
+}
+
+.home-comp {
+    margin: 1vw;
+}
+
+.user-info {
+    padding: 1vw;
+    min-width: 12vw;
+}
